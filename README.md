@@ -13,9 +13,9 @@ The goal of this project is to perform end-to-end ML workflows including **EDA, 
 ## 📊 Models & Performance
 | Task Type       | Model Used (Best) | Accuracy / Score |
 |----------------|-------------------|------------------|
-| **Classification** | SVM / Logistic Regression | **94%** |
-| **Regression**     | Linear Regression / others | **92% (R² Score)** |
-| **Clustering**     | K-Means | Best cluster separation (Silhouette ~ **0.5**) |
+| **Classification** | SVM / Random Forest | **94%** |
+| **Regression**     | Linear Regression / XG Boost | **92% (R² Score)** |
+| **Clustering**     | K-Means | Best cluster separation (Silhouette ~ **54%**) |
 
 ---
 
